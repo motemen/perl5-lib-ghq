@@ -1,0 +1,6 @@
+name = "lib-ghq"
+# badges = ["travis"]
+authority="cpan:MOTEMEN"
+
+module_maker="ModuleBuildTiny"
+

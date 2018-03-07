@@ -4,3 +4,4 @@ authority="cpan:MOTEMEN"
 
 module_maker="ModuleBuildTiny"
 
+requires_external_bin=['ghq']
